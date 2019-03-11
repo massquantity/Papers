@@ -5,3 +5,4 @@
 + [Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions](http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf)
 + [Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.109&rep=rep1&type=pdf)
 + [Item-Based Collaborative Filtering Recommendation Algorithms](http://files.grouplens.org/papers/www10_sarwar.pdf)
++ [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
