@@ -7,3 +7,4 @@
 + [Item-Based Collaborative Filtering Recommendation Algorithms](http://files.grouplens.org/papers/www10_sarwar.pdf)
 + [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 + [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir16-eals-cm.pdf)
++ [A Survey of Collaborative Filtering Techniques](https://www.researchgate.net/publication/220173171_A_Survey_of_Collaborative_Filtering_Techniques)
