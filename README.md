@@ -13,4 +13,3 @@
 + [A Generic Coordinate Descent Framework for Learning from Implicit Feedback](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1341.pdf)
 + [A Contextual-Bandit Approach to Personalized News Article Recommendation](http://rob.schapire.net/papers/www10.pdf)
 
-/
