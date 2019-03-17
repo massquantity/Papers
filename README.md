@@ -12,4 +12,5 @@
 + [Building Industrial-scale Real-world Recommender Systems](https://xamat.github.io/pubs/recsys12-tutorial.pdf)
 + [A Generic Coordinate Descent Framework for Learning from Implicit Feedback](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1341.pdf)
 + [A Contextual-Bandit Approach to Personalized News Article Recommendation](http://rob.schapire.net/papers/www10.pdf)
-
++ [One-Class Collaborative Filtering](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/04781145.pdf)
++ [Online-Updating Regularized Kernel Matrix Factorization Models for Large-Scale Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.8010&rep=rep1&type=pdf) [PPT](https://pdfs.semanticscholar.org/ef7a/106856cbc2c4c55c2dc83fd33ddba2382ea6.pdf)
