@@ -16,3 +16,4 @@
 + [Online-Updating Regularized Kernel Matrix Factorization Models for Large-Scale Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.8010&rep=rep1&type=pdf) {[PPT](https://pdfs.semanticscholar.org/ef7a/106856cbc2c4c55c2dc83fd33ddba2382ea6.pdf)}
 + [Context-Aware Recommender Systems](http://www.inf.unibz.it/~ricci/papers/08-Adomavicius.pdf)[1]
 + [Context-Aware Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4220&rep=rep1&type=pdf)[2]
++ [Collaborative Filtering with Temporal Dynamics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
