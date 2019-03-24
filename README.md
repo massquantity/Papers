@@ -19,3 +19,4 @@
 + [Collaborative Filtering with Temporal Dynamics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
 + [An MDP-Based Recommender System](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)[1]
 + [An MDP-based Recommender System](https://arxiv.org/abs/1301.0600)[2]
++ [DRN: A Deep Reinforcement Learning Framework for News Recommendation](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
