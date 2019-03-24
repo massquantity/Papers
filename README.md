@@ -17,3 +17,5 @@
 + [Context-Aware Recommender Systems](http://www.inf.unibz.it/~ricci/papers/08-Adomavicius.pdf)[1]
 + [Context-Aware Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4220&rep=rep1&type=pdf)[2]
 + [Collaborative Filtering with Temporal Dynamics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1951&rep=rep1&type=pdf)
++ [An MDP-Based Recommender System](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)[1]
++ [An MDP-based Recommender System](https://arxiv.org/abs/1301.0600)[2]
