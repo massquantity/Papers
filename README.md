@@ -20,3 +20,9 @@
 + [An MDP-Based Recommender System](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)[1]
 + [An MDP-based Recommender System](https://arxiv.org/abs/1301.0600)[2]
 + [DRN: A Deep Reinforcement Learning Framework for News Recommendation](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
++ [Collaborative Filtering with Recurrent Neural Networks](https://paperswithcode.com/paper/collaborative-filtering-with-recurrent-neural)
++ [Training Deep AutoEncoders for Collaborative Filtering](https://paperswithcode.com/paper/training-deep-autoencoders-for-collaborative)
++ [StarSpace: Embed All The Things!](https://paperswithcode.com/paper/starspace-embed-all-the-things)
+
+
+
