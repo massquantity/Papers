@@ -26,3 +26,5 @@
 + [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/abs/1708.05123)
 + [Attentive collaborative filtering: Multimedia recommendation with feature- and item-level attention](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf)
 + [Context-aware open relation extraction with factorization machines](https://aclweb.org/anthology/D15-1204)
++ [Fast context-aware recommendations with factorization machines](https://github.com/buptjz/Factorization-Machine/blob/master/paper/Steffen%20Rendle%20(2011)%20Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines%20.pdf)
+
