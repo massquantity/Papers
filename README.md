@@ -29,6 +29,6 @@
 + [Fast context-aware recommendations with factorization machines](https://github.com/buptjz/Factorization-Machine/blob/master/paper/Steffen%20Rendle%20(2011)%20Fast%20Context-aware%20Recommendations%20with%20Factorization%20Machines%20.pdf)
 + [Incorporating Contextual Information in Recommender Systems Using a Multidimensional Approach ](https://core.ac.uk/download/pdf/22877074.pdf)
 + [Multiverse Recommendation: N-dimensional Tensor Factorization for Context-aware Collaborative Filtering](https://xamat.github.io/pubs/karatzoglu-recsys-2010.pdf)
-
++ [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1803.02349)
 
 
