@@ -30,5 +30,5 @@
 + [Incorporating Contextual Information in Recommender Systems Using a Multidimensional Approach ](https://core.ac.uk/download/pdf/22877074.pdf)
 + [Multiverse Recommendation: N-dimensional Tensor Factorization for Context-aware Collaborative Filtering](https://xamat.github.io/pubs/karatzoglu-recsys-2010.pdf)
 + [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1803.02349)
-
-
++ [AutoSVD++: An Eicient Hybrid Collaborative Filtering Model via Contractive Auto-encoders](https://arxiv.org/pdf/1704.00551.pdf)
++ [Local Implicit Feedback Mining for Music Recommendation](https://homes.cs.washington.edu/~tqchen/data/pdf/recsys12-p91-yang.pdf)
