@@ -34,3 +34,4 @@
 + [Local Implicit Feedback Mining for Music Recommendation](https://homes.cs.washington.edu/~tqchen/data/pdf/recsys12-p91-yang.pdf)
 + [Deep Session Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.06482.pdf)
 + [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)
++ [FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction](https://arxiv.org/pdf/1905.09433.pdf)
