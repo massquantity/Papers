@@ -6,7 +6,6 @@
 + [Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.109&rep=rep1&type=pdf)
 + [Item-Based Collaborative Filtering Recommendation Algorithms](http://files.grouplens.org/papers/www10_sarwar.pdf)
 + [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
-+ [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir16-eals-cm.pdf)
 + [A Survey of Collaborative Filtering Techniques](https://www.researchgate.net/publication/220173171_A_Survey_of_Collaborative_Filtering_Techniques)
 + [Implicit Feedback for Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.1279&rep=rep1&type=pdf)
 + [Building Industrial-scale Real-world Recommender Systems](https://xamat.github.io/pubs/recsys12-tutorial.pdf)
