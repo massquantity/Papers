@@ -37,3 +37,4 @@
 + [NFFM: Operation-aware Neural Networks for User Response Prediction](https://arxiv.org/pdf/1904.12579.pdf)
 + [Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122.pdf)
 + [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1905.06874.pdf)
++ [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
