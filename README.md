@@ -39,4 +39,5 @@
 + [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1905.06874.pdf)
 + [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
 + [Feature Hashing for Large Scale Multitask Learning](https://alex.smola.org/papers/2009/Weinbergeretal09.pdf)
++ [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf)
 
