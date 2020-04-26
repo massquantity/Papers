@@ -37,8 +37,8 @@
 + [NFFM: Operation-aware Neural Networks for User Response Prediction](https://arxiv.org/pdf/1904.12579.pdf)
 + [Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122.pdf)
 + [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1905.06874.pdf)
-+ [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
 + [Feature Hashing for Large Scale Multitask Learning](https://alex.smola.org/papers/2009/Weinbergeretal09.pdf)
 + [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/pdf/1606.04838.pdf)
 + [Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/files/dadm-kdd.pdf)
++ [class imbalance and cost sensitivity why under-sampling beats over-sampling](https://pdfs.semanticscholar.org/144b/bbafe2f0876c23295019b6e380c9fe4feda3.pdf)
 
