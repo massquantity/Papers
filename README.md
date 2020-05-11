@@ -42,4 +42,8 @@
 + [Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/files/dadm-kdd.pdf)
 + [class imbalance and cost sensitivity why under-sampling beats over-sampling](https://pdfs.semanticscholar.org/144b/bbafe2f0876c23295019b6e380c9fe4feda3.pdf)
 + [Next Item Recommendation with Self-Attention](https://arxiv.org/pdf/1808.06414.pdf)
++ [Deep Reinforcement Learning for List-wise Recommendations](https://arxiv.org/pdf/1801.00209.pdf)
++ [Deep Reinforcement Learning for Page-wise Recommendations](https://arxiv.org/pdf/1805.02343.pdf)
+
+
 
