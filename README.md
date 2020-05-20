@@ -44,6 +44,6 @@
 + [Next Item Recommendation with Self-Attention](https://arxiv.org/pdf/1808.06414.pdf)
 + [Deep Reinforcement Learning for List-wise Recommendations](https://arxiv.org/pdf/1801.00209.pdf)
 + [Deep Reinforcement Learning for Page-wise Recommendations](https://arxiv.org/pdf/1805.02343.pdf)
-
++ [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf)
 
 
