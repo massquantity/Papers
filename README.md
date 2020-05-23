@@ -45,5 +45,6 @@
 + [Deep Reinforcement Learning for List-wise Recommendations](https://arxiv.org/pdf/1801.00209.pdf)
 + [Deep Reinforcement Learning for Page-wise Recommendations](https://arxiv.org/pdf/1805.02343.pdf)
 + [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf)
-
++ [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf)
++ [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/pdf/2003.00911.pdf)
 
