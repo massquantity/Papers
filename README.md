@@ -47,4 +47,6 @@
 + [Top-K Off-Policy Correction for a REINFORCE Recommender System](https://arxiv.org/pdf/1812.02353.pdf)
 + [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf)
 + [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/pdf/2003.00911.pdf)
++ [A Survey on Multi-Task Learning](https://arxiv.org/pdf/1707.08114.pdf)
+
 
