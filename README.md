@@ -49,4 +49,4 @@
 + [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/pdf/2003.00911.pdf)
 + [A Survey on Multi-Task Learning](https://arxiv.org/pdf/1707.08114.pdf)
 + [Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application](https://arxiv.org/pdf/1803.00710.pdf)
-
++ [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
