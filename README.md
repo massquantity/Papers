@@ -52,4 +52,4 @@
 + [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 + [Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/abs/1909.03602)
 + [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://arxiv.org/pdf/1809.07426.pdf)
-+ [Factorizing Personalized Markov Chains for Next-Basket Recommendation](Factorizing Personalized Markov Chains for Next-Basket Recommendation)
++ [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://dl.acm.org/doi/pdf/10.1145/1772690.1772773)
