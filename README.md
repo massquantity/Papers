@@ -54,4 +54,5 @@
 + [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://arxiv.org/pdf/1809.07426.pdf)
 + [Factorizing Personalized Markov Chains for Next-Basket Recommendation](https://dl.acm.org/doi/pdf/10.1145/1772690.1772773)
 + [Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology](https://arxiv.org/pdf/1905.12767.pdf)
++ [Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations](https://arxiv.org/abs/2007.07203)
 
